@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wokutxjpbbveov40/branch/master?svg=true)](https://ci.appveyor.com/project/nagraiv/regexp/branch/master)
+
 # Домашнее задание к лекции «Регулярные выражения» [ссылка](https://github.com/netology-code/ajs-homeworks/tree/ajs8/regex)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
